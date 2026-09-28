@@ -84,12 +84,12 @@
 ### GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tribhuvan-26&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=A78BFA&text_color=E0D6FF" height="150" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Tribhuvan-26&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=A78BFA&currStreakLabel=A78BFA" height="150" alt="Streak Graph"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tribhuvan-2607&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=A78BFA&text_color=E0D6FF" height="150" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Tribhuvan-2607&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=A78BFA&currStreakLabel=A78BFA" height="150" alt="Streak Graph"/>
   
   <br/><br/>
   
-  <img src="https://raw.githubusercontent.com/Tribhuvan-26/Tribhuvan-26/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Tribhuvan-2607/Tribhuvan-2607/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation"/>
 </div>
 
 ---
