@@ -23,14 +23,23 @@
 
 ### About Me
 
-<img align="right" height="250" src="https://raw.githubusercontent.com/Tribhuvan-2607/Tribhuvan-2607/main/superman.jpg"/>
+<table>
+<tr>
+<td width="70%" valign="middle">
 
 - Building **full-stack, mobile, and AI products** end-to-end.
 - Shipping with **React, Next.js, Flutter, Node.js, and FastAPI**.
 - Deep in **agentic AI** — systems that execute actions autonomously.
 - Open to **collaborations, open-source initiatives, and freelance projects**.
 
-<br clear="right"/>
+</td>
+<td width="30%" valign="middle">
+
+<img height="220" src="https://raw.githubusercontent.com/Tribhuvan-2607/Tribhuvan-2607/main/superman.jpg"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
