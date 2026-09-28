@@ -23,7 +23,7 @@
 
 ### About Me
 
-<img align="right" height="160" src="https://raw.githubusercontent.com/Tribhuvan-2607/Tribhuvan-2607/main/superman.jpg"/>
+<img align="right" height="300" src="https://raw.githubusercontent.com/Tribhuvan-2607/Tribhuvan-2607/main/superman.jpg"/>
 
 - Building **full-stack, mobile, and AI products** end-to-end.
 - Shipping with **React, Next.js, Flutter, Node.js, and FastAPI**.
